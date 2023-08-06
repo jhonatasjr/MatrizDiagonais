@@ -1,6 +1,6 @@
 # MatrizDiagonais
 
-Teste com matrizes
+Teste com matrizes em C#
 
 1: implemente uma função que inverta as diagonais de uma matriz
 quadrada.
